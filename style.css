@@ -1,0 +1,32 @@
+.backColor
+{
+    background-color: #AAF0D1;
+}
+
+.textStyle
+{
+    color: mediumaquamarine	;
+    text-align: center;
+    font-size: 52px;
+}
+
+.iconStyle
+{
+    width: 200px;
+    height: 150px;
+   
+}
+
+
+.projStyle
+{
+    width: 500px;
+    height: 200px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
